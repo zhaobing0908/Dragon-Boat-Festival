@@ -1,0 +1,44 @@
+.boat_head{
+    width: 100%;
+    min-width: 1250px;
+    height: 1180px;
+    background: url("../img/dragon_boat/dragon_boat_1.jpg") no-repeat center 0;
+}
+.boat_1,.boat_2,.boat_3,.boat_4{
+    width: 1046px;
+}
+.boat_cont{
+    width: 1046px;
+    height: 2060px;
+    margin: 0 auto;
+}
+.boat_1{
+    background: url("../img/dragon_boat/dragon_boat_2.jpg") no-repeat center 0;
+    height: 570px;
+
+}
+.boat_2{
+    background: url("../img/dragon_boat/dragon_boat_3.jpg") no-repeat center 0;
+    height: 656px;
+
+}
+.boat_3{
+    background: url("../img/dragon_boat/dragon_boat_4.jpg") no-repeat center 0;
+    height:656px ;
+
+}
+.boat_4{
+
+    height: 120px;
+    padding-top:16px ;
+
+
+}
+.goTo{
+    cursor: pointer;
+    width: 460px;
+    height: 86px;
+    margin: auto auto auto 330px;
+    background: url("../img/dragon_boat/gotoTop.jpg") no-repeat center center;
+}
+
